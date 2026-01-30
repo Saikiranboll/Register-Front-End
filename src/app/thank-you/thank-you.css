@@ -1,0 +1,9 @@
+.main
+{
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
